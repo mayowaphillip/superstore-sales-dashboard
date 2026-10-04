@@ -41,7 +41,7 @@ Page 3 — Product & Category Performance
 Page 4 — Profitability Analysis
 ![Profitability Analysis](images/profitability_analysis.png)
 Page 5 — Summary (MoM & Trend)
-![Summary](images/executive_summary.png)
+![Summary](images/summary.png)
 Page 6 — Drill-Through
 ![Drill-Through](images/drill_through.png)
 ---
