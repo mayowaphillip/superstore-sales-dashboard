@@ -6,7 +6,6 @@ A 6-page Power BI dashboard built to analyse retail sales performance, customer 
 Retail businesses generate enormous volumes of transactional data, but without proper analysis, critical patterns go unnoticed — underperforming products remain on shelves, high-value customers go unrecognised, and discount strategies erode margins silently. This dashboard transforms raw Superstore sales data into a clear, interactive story across six focused pages, enabling decision-makers to act on what the numbers actually say.
 ---
 🎯 Objective
-
 To design a comprehensive, interactive Power BI dashboard that enables retail business stakeholders to:
 Monitor overall sales and profitability performance at a glance
 Understand which customer segments, products, and regions drive the most value
@@ -41,8 +40,8 @@ Page 3 — Product & Category Performance
 ![Product & Category Performance](images/product_category_performance.png)
 Page 4 — Profitability Analysis
 ![Profitability Analysis](images/profitability_analysis.png)
-Page 5 — Executive Summary (MoM & Trend)
-![Executive Summary](images/executive_summary.png)
+Page 5 — Summary (MoM & Trend)
+![Summary](images/executive_summary.png)
 Page 6 — Drill-Through
 ![Drill-Through](images/drill_through.png)
 ---
